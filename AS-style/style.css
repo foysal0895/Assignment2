@@ -1,0 +1,129 @@
+.cloure{
+    background-color: antiquewhite;
+}
+
+.G3{
+    display: inline-flex;
+}
+.padding{
+    padding-left: 50px;
+}
+.btn4{
+    display: inline-flex;
+    gap: 25px;
+    padding-left: 700px;
+    padding-top: 25px;
+}
+/* Brand New */
+.New{
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 520px;
+    padding-right: 520px;
+}
+.size{
+    font-size: 10px;
+    line-height: 16px;
+}
+.Explore{
+    border-radius: 10px;
+    background-color: chocolate;
+}
+/* picture */
+.picture{
+    padding-top: 15px;
+    padding-left: 300px;
+    width: 50%;
+   
+}
+/* Team picture */
+.team-pic{
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-right: 200px;
+    background-color: white;
+    display: flex;
+    gap: 25px;
+}
+
+.pic{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    gap: 10px;
+}
+.Features{
+    padding-top: 200px;
+}
+.cloure-Features{
+    color: coral;
+}
+
+/* Features you will love & enjoy */
+.display{
+    padding-top: 55px;
+    padding-left: 150px;
+    padding-right: 150px;
+display: flex;
+gap: 50px;
+}
+
+.architect{
+    height: 400%;
+}
+.img-size{
+    height: 500px;
+}
+.first{
+    padding-bottom: 29px;
+}
+.btn{
+    border-radius: 10px;
+    line-height: 20px;
+    font-size: 25px;
+    background-color: coral;
+}
+.ex-size{
+    font-size: small;
+}
+/* Some Fact */
+.some{
+    padding-left: 150px;
+    padding-right: 600px;
+}
+/* icon */
+.icon{
+    display: flex;
+    padding-left: 250px;
+    gap: 100px;
+    padding-right: 250px;
+    
+}
+.five-four{
+    text-align: center;
+}
+/* Our Sponspors  */
+.Sponspors{
+    text-align: center;
+    line-height: 26px;
+    
+}
+.spon{
+    padding-left:400px ;
+    padding-right: 400px;
+}
+.s-icon{
+padding-left: 130px;
+    padding-top: 30px;
+    display: flex;
+    gap: 30px;
+}
+.ALL{
+    padding-left: 130px;
+    padding-right: 170px;
+}
+.last{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: burlywood;
+}
+
